@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BDD Test Suite">
+    <test name="Regression Test suite" preserve-order="true">
+        <classes>
+            <class name="com.qa.mobile.tests.TestCases"/>
+        </classes>
+    </test>
+</suite>
