@@ -39,6 +39,6 @@ This is a simple project that I have tried out when I first started automating w
 
 `Extras`
 
-12) Once you start the appium server click on `Start Inspector session`
-13) Fill the Desired capabilitites section and using the above values you generated and click Start session
-14) This will start the session and you can use this to inspect mobile element locations for your automation purposes
+13) Once you start the appium server click on `Start Inspector session`
+14) Fill the Desired capabilitites section and using the above values you generated and click Start session
+15) This will start the session and you can use this to inspect mobile element locations for your automation purposes
